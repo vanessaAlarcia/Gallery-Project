@@ -1,6 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Comments from './Comments';
 
 const Modal = ({ selectedImg, setSelectedImg }) => {
      const handleClick = (e) => {
