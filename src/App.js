@@ -14,6 +14,7 @@ require('dotenv').config()
       <UploadForm />
       <ImageGrid setSelectedImg={setSelectedImg} />
       { selectedImg && <Modal selectedImg={selectedImg} setSelectedImg={setSelectedImg} /> }
+      <a class="icon__credit" href="https://www.flaticon.com/free-icons/pets" title="pets icons">Pets icons created by iconixar - Flaticon</a>
     </div>
   );
 }
