@@ -1,3 +1,5 @@
+This application is based on a tutorial by Brad Traversy and NetNinja on Youtube (https://www.youtube.com/watch?v=vUe91uOx7R0&t=3409s). The code is NOT identical to the tutorial's. The application was reconfigured to use Firebase 9 instead of Firebase 8, includes CSS styling for mobile/tablet responsiveness, and an updated app icon/title. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
